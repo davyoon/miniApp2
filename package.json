@@ -1,7 +1,7 @@
 {
-  "name": "MiniApp2",
+  "name": "Cov19NYC",
   "version": "1.0.0",
-  "description": "MiniApp2",
+  "description": "Cov19NYC",
   "main": "webpack.config.dev.js",
   "proxy": "https://github.com",
   "scripts": {
@@ -18,7 +18,7 @@
     "mongo",
     "express"
   ],
-  "author": "junjo255",
+  "author": "davyoon",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.4.3",

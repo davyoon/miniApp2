@@ -1,8 +1,7 @@
-### MiniApp2
+### Cov19NYC
 
 ##### Instruction
 - Git clone
 - npm install
-- cd into 'src' -> 'index.js' 
-- Start coding
+- npm run dev
 
